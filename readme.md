@@ -21,13 +21,6 @@ Um sistema web simples e funcional para cadastrar, listar e remover nomes, feito
 - SQLite (via SQLAlchemy)
 - HTML + Bootstrap 5
 
----
-
-## 📷 Captura de tela
-
-> *Você pode tirar um print da tela e salvar como `screenshot.png` na pasta do projeto, depois adicionar aqui:*
-
-![Interface do painel](screenshot.png)
 
 ---
 
